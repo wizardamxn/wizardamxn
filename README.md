@@ -6,10 +6,8 @@
 
 *Building the future, one commit at a time*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio-link.vercel.app)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/amanahmad1)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://amanahmad.vercel.app)
 </div>
 
 ---
@@ -27,17 +25,16 @@ const aman = {
         database: ["MongoDB"],
         learning: ["DevOps", "Open Source Contributions"]
     },
-    lifePhilosophy: "Code. Learn. Repeat. ☕",
+    lifePhilosophy: "Code. Learn. Love. ☕❤️",
     funFact: "My coffee consumption > my lines of code"
 };
 ```
 
 ### 🎯 What I'm Up To
 
-- 🔨 **Currently Building:** Next.js + Three.js portfolio (Prepare for 3D awesomeness!)
-- 📚 **Learning Journey:** Diving deep into Node.js, DevOps, and the Open Source ecosystem
+- 📚 **Learning Journey:** Diving deep into DevOps, and the Open Source ecosystem
 - 💡 **Expertise:** React wizardry, Redux state management, Tailwind styling, Backend architecture
-- 🎮 **When Not Coding:** Probably debugging my coffee machine ☕😆
+- 🎮 **When Not Coding:** Probably smacking my head watching my teammates throw an easy round☕😆
 
 ---
 
@@ -96,8 +93,7 @@ const aman = {
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | 🎨 **3D Portfolio** | Interactive portfolio with Three.js | Next.js, Three.js, Tailwind |
-| 🚀 **Project Name** | Brief description | React, Node.js, MongoDB |
-| 💡 **Project Name** | Brief description | Next.js, Express, Redux |
+| 🚀 **WatchThis** | Brief description | React, Node.js, MongoDB |
 
 </div>
 
@@ -109,9 +105,9 @@ const aman = {
 
 💼 Open to **collaborations** and **freelance opportunities**
 
-📧 **Email:** your.email@example.com
+📧 **Email:** amank225566@gmail.com
 
-🌐 **Portfolio:** [your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app)
+🌐 **Portfolio:** [Aman Ahmad](https://amanahmad.vercel.app)
 
 </div>
 
