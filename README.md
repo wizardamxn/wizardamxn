@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Aman Ahmad
+# Aman Ahmad
 
 ### Full Stack Developer | MERN Architect | DevOps Explorer
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 ```javascript
 const aman = {
@@ -30,11 +30,11 @@ const aman = {
 };
 ```
 
-### 🎯 What I'm Up To
+### What I'm Up To
 
-- 📚 **Learning Journey:** Diving deep into DevOps, and the Open Source ecosystem
-- 💡 **Expertise:** React wizardry, Redux state management, Tailwind styling, Backend architecture
-- 🎮 **When Not Coding:** Probably smacking my head watching my teammates throw an easy round☕😆
+- **Learning Journey:** Diving deep into DevOps, and the Open Source ecosystem
+- **Expertise:** React wizardry, Redux state management, Tailwind styling, Backend architecture
+- **When Not Coding:** Probably smacking my head watching my teammates throw an easy round☕😆
 
 ---
 
@@ -42,18 +42,18 @@ const aman = {
 
 <div align="center">
 
-### Frontend Magic ✨
+### Frontend Magic
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
 
-### Backend Power 💪
+### Backend Power
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-### Database & Tools 🗄️
+### Database & Tools
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -62,7 +62,7 @@ const aman = {
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -76,7 +76,7 @@ const aman = {
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -86,28 +86,28 @@ const aman = {
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 🎨 **3D Portfolio** | Interactive portfolio with Three.js | Next.js, Three.js, Tailwind |
-| 🚀 **WatchThis** | Brief description | React, Node.js, MongoDB |
+| **3D Portfolio** | Interactive portfolio with Three.js | Next.js, Three.js, Tailwind |
+| **WatchThis** | Brief description | React, Node.js, MongoDB |
 
 </div>
 
 ---
 
-## 📫 Let's Connect!
+## Let's Connect!
 
 <div align="center">
 
-💼 Open to **collaborations** and **freelance opportunities**
+Open to **collaborations** and **freelance opportunities**
 
-📧 **Email:** amank225566@gmail.com
+**Email:** amank225566@gmail.com
 
-🌐 **Portfolio:** [Aman Ahmad](https://amanahmad.vercel.app)
+**Portfolio:** [Aman Ahmad](https://amanahmad.vercel.app)
 
 </div>
 
@@ -115,11 +115,11 @@ const aman = {
 
 <div align="center">
 
-### 💭 Dev Quote of the Day
+### Dev Quote of the Day
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 👁️ Profile Views
+### Profile Views
 
 ![](https://komarev.com/ghpvc/?username=amanahmad&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
 
