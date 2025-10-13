@@ -66,7 +66,7 @@ const aman = {
 
 <div align="center">
 
-[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanahmad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact)](https://wakatime.com/@amanahmad)
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanahmad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact)](https://wakatime.com/@wizardamxn)
 
 </div>
 
