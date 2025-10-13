@@ -66,11 +66,9 @@ const aman = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanahmad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="50%" />
+[![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=amanahmad&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&layout=compact)](https://wakatime.com/@amanahmad)
 
 </div>
-
----
 
 ## GitHub Trophies
 
