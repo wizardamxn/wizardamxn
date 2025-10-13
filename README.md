@@ -38,7 +38,7 @@ const aman = {
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
@@ -62,7 +62,7 @@ const aman = {
 
 ---
 
-## 💻 Language Usage
+## Language Usage
 
 <div align="center">
 
