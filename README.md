@@ -2,7 +2,7 @@
 
 # Aman Ahmad
 
-### Full Stack Developer | MERN Architect | DevOps Explorer
+### Full Stack Developer | DevOps Explorer
 
 *Building the future, one commit at a time*
 
