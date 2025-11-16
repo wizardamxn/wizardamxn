@@ -12,7 +12,7 @@
 
 Hey there! I am **Aman Ahmad**, a passionate developer specializing in **MERN stack** and **Next.js** for development purposes. Currently diving deep into **DevOps** practices to enhance my skill set.
 
-When I'm not fixing bugs created by AI or crafting beautiful user interfaces, you'll find me spending quality time with friends, gaming, or talking to her <3.
+When I'm not fixing bugs created by AI or crafting beautiful user interfaces, you'll find me spending quality time with friends, family, gaming, or talking to her <3.
 
 - 🌍 **Location:** India
 - 🖥️ **Portfolio:** [amanahmad.vercel.app](http://amanahmad.vercel.app)
