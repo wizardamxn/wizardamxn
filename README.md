@@ -15,7 +15,7 @@ Hey there! I am **Aman Ahmad**, a passionate developer specializing in **MERN st
 When I'm not fixing bugs created by AI or crafting beautiful user interfaces, you'll find me spending quality time with friends, family, gaming, or talking to her <3.
 
 - 🌍 **Location:** India
-- 🖥️ **Portfolio:** [amanahmad.vercel.app](http://amanahmad.xyz)
+- 🖥️ **Portfolio:** [amanahmad.xyz](http://amanahmad.xyz)
 - ✉️ **Email:** [amank225566@gmail.com](mailto:amank225566@gmail.com)
 - 🧠 **Currently Learning:** DevOps
 - 🤝 **Open to Collaborate:** On anything I have interest in
@@ -129,11 +129,3 @@ When I'm not fixing bugs created by AI or crafting beautiful user interfaces, yo
 
 ---
 
-<div align="center">
-  
-### 💭 Quote of the Day
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-</div>
