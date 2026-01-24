@@ -105,13 +105,13 @@ When I'm not fixing bugs created by AI or crafting beautiful user interfaces, yo
 
 <div width="100%" align="center">
   <a href="https://github.com/wizardamxn/projectteams" align="left">
-    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=Sihfinalfinal&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
   <a href="https://github.com/wizardamxn/epicportfolio" align="right">
     <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
-  <a href="https://github.com/wizardamxn/wacththis" align="right">
-    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
+  <a href="https://github.com/wizardamxn/watchthis" align="center">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
   </a>
 </div>
 
