@@ -93,13 +93,23 @@
 </div>
 
 ---
-
 <div align="center">
   <h2>🔥 GitHub Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="160" />
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="160" />
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
 </div>
 
 ---
