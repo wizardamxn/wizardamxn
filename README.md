@@ -92,10 +92,13 @@
 
 </div>
 
+---
+
 <div align="center">
   <h2>🐍 My Contribution Ecosystem</h2>
   <img src="https://github.com/wizardamxn/wizardamxn/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
 ---
 
 <h2 align="center">🏆 Featured Projects</h2>
