@@ -117,14 +117,10 @@
 
 <div align="center">
 
-| **Project Teams** | **Epic Portfolio** | **Watch This** |
-|:---:|:---:|:---:|
-| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+| 📂 **Project Name** | 📝 **Description** | 🛠️ **Tech Stack** |
+| :--- | :--- | :--- |
+| **[Project Teams](https://github.com/wizardamxn/projectteams)** | A collaborative team management tool for developers. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
+| **[Epic Portfolio](https://github.com/wizardamxn/epicportfolio)** | High-performance personal portfolio website. | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) |
+| **[Watch This](https://github.com/wizardamxn/watchthis)** | A media tracking application for movies & TV. | ![MERN](https://img.shields.io/badge/MERN_Stack-REDBADGE?style=flat-square&color=ff0000) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
 
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
