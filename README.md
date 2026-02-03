@@ -128,4 +128,3244 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
+</div>---
+<div align="center">
+  <h2>🔥 GitHub Stats</h2>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
+  </a>
+  
+  <br/>
+  <br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+</div>
+
+---
+
+<h2 align="center">🏆 Featured Projects</h2>
+
+<div align="center">
+
+| **Project Teams** | **Epic Portfolio** | **Watch This** |
+|:---:|:---:|:---:|
+| <a href="https://github.com/wizardamxn/projectteams"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=projectteams&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/epicportfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=epicportfolio&theme=radical&hide_border=true" width="100%" /></a> | <a href="https://github.com/wizardamxn/watchthis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=wizardamxn&repo=watchthis&theme=radical&hide_border=true" width="100%" /></a> |
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
