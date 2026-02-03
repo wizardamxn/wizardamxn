@@ -93,24 +93,9 @@
 </div>
 
 <div align="center">
-  <h2>🔥 GitHub Stats</h2>
-  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wizardamxn&theme=radical&no-frame=true&margin-w=4" alt="trophy" />
-  </a>
-  
-  <br/>
-  <br/>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wizardamxn&theme=radical&hide_border=true" height="150" alt="streak graph" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=radical&hide_border=true" height="150" alt="languages graph" />
+  <h2>🐍 My Contribution Ecosystem</h2>
+  <img src="https://github.com/wizardamxn/wizardamxn/raw/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
 ---
 
 <h2 align="center">🏆 Featured Projects</h2>
