@@ -1,114 +1,71 @@
 <div align="center">
-  
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100px">
-  
-  <br/>
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=500&lines=Hi!+I'm+Aman+Ahmad;MERN+Stack+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;DevOps+Explorer+%F0%9F%9A%80;Open+Source+Enthusiast" alt="Typing SVG" />
-
-  <p>
-    <a href="https://github.com/wizardamxn">
-      <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://www.linkedin.com/in/amanahmad1">
-      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:amank225566@gmail.com">
-      <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="http://amanahmad.xyz">
-      <img src="https://img.shields.io/badge/PORTFOLIO-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Hi!+I'm+Aman+Ahmad;Full-Stack+Engineer;System+Architecture+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
-<hr/>
-
 <div align="center">
-  <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
-  
-  <h2 align="left">⚡ About Me</h2>
-  <p align="left">
-    Hey! I'm <strong>Aman</strong>. I build stuff that lives on the internet. I specialize in the <strong>MERN Stack</strong> and I'm currently obsessing over <strong>DevOps</strong>.
-  </p>
-   <p align="left">
-    🔭 <strong>Working on:</strong> Scalable Web Apps<br>
-    🌱 <strong>Learning:</strong> Kubernetes & Cloud Architecture<br>
-    🎮 <strong>Hobbies:</strong> Gaming, Coding, and chilling<br>
-    💬 <strong>Motto:</strong> <em>"Never stop working hard and hoping!"</em>
-  </p>
+    <a href="https://github.com/wizardamxn"><img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+    <a href="https://www.linkedin.com/in/amanahmad1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:amank225566@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
+    <a href="http://amanahmad.xyz"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
 </div>
 
-<br clear="both"/>
+<br />
 
----
+<table align="center" width="100%" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="65%" valign="top" style="border: none;">
+      <h3>⚡ Engineering Philosophy</h3>
+      <p>I engineer robust, high-performance web applications, currently driving development as a Full Stack Developer Intern at <b>KodeCompiler</b>. My focus lies in architecting complex systems—from implementing 100% server-side search architectures to designing secure, <code>sessionStorage</code>-based authentication flows.</p>
+      <p>Beyond standard MERN stacks, I actively explore real-time communication networks via WebSockets, scalable deployments on AWS EC2, and the integration of generative AI using the Vercel AI SDK.</p>
+      <p>
+        <strong>🔭 Currently Architecting:</strong> Enterprise CRM solutions & AI-driven platforms.<br>
+        <strong>🌱 Exploring:</strong> React Native mobile ecosystems & advanced Cloud deployments.<br>
+        <strong>🎮 AFK:</strong> Hitting Push-Pull-Legs at the gym, grinding Valorant, or caring for my dogs.
+      </p>
+    </td>
+    <td width="35%" align="center" valign="center" style="border: none;">
+      <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100px" style="margin-bottom: 15px;"><br/>
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="220px" />
+    </td>
+  </tr>
+</table>
 
-<h2 align="center">🛠️ The Arsenal</h2>
+<br />
 
+<h3 align="center">🛠️ Technical Arsenal</h3>
 <div align="center">
-
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-<img src="https://img.shields.io/badge/Chakra%20UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
-<img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+  <br />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 </div>
 
----
+<br />
 
-<div align="center">
-  <h2>🐍 My Contribution Ecosystem</h2>
-  <img src="https://github.com/wizardamxn/wizardamxn/raw/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
----
-
-<h2 align="center">🏆 Featured Projects</h2>
-
+<h3 align="center">🚀 Featured Architectures</h3>
 <div align="center">
 
-| 📂 **Project Name** | 📝 **Description** | 🛠️ **Tech Stack** |
+| System | Description | Primary Stack |
 | :--- | :--- | :--- |
-| **[Project Teams](https://github.com/wizardamxn/projectteams)** | A collaborative team management tool for developers. | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) |
-| **[Epic Portfolio](https://github.com/wizardamxn/epicportfolio)** | High-performance personal portfolio website. | ![Next](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat-square&logo=framer&logoColor=white) |
-| **[Watch This](https://github.com/wizardamxn/watchthis)** | A media tracking application for movies & TV. | ![MERN](https://img.shields.io/badge/MERN_Stack-REDBADGE?style=flat-square&color=ff0000) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) |
+| **Vandal** | AI-driven portfolio builder leveraging generative models. | `Next.js` `Vercel AI SDK` `Gemini` |
+| **[Project Teams](https://github.com/wizardamxn/projectteams)** | Collaborative platform utilizing real-time data sync. | `MERN` `Socket.io` |
+| **AVMG** | Media processing and conversion application architecture. | `Node.js` `AWS EC2` |
+| **[Watch This](https://github.com/wizardamxn/watchthis)** | Full-stack media tracking and recommendation engine. | `MERN` `Firebase` |
 
+</div>
+
+<br />
+
+<div align="center">
+  <h3>📈 Activity & Contributions</h3>
+  <img src="https://github.com/wizardamxn/wizardamxn/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
