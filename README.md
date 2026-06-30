@@ -1,71 +1,124 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Hi!+I'm+Aman+Ahmad;Full-Stack+Engineer;System+Architecture+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+
+```
+ █████╗ ███╗   ███╗ █████╗ ███╗   ██╗
+██╔══██╗████╗ ████║██╔══██╗████╗  ██║
+███████║██╔████╔██║███████║██╔██╗ ██║
+██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║
+██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
+```
+
+**Full-Stack Engineer · System Architecture · Real-time Systems**
+
+[![Portfolio](https://img.shields.io/badge/amanahmad.xyz-000?style=flat-square&logo=vercel&logoColor=white)](http://amanahmad.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanahmad1)
+[![Email](https://img.shields.io/badge/amank225566@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amank225566@gmail.com)
+
 </div>
+
+---
+
+### About
+
+I build high-performance web applications with a focus on architecture that holds under pressure. Currently working as a **Full Stack Developer Intern at KodeCompiler**, where I architect systems ranging from server-side search pipelines to secure auth flows and real-time infrastructure.
+
+My stack leans MERN but extends into WebSockets, Redis queues, vector search, and AWS deployments. I also integrate generative AI where it actually adds value — not as a gimmick.
+
+---
+
+### Stack
 
 <div align="center">
-    <a href="https://github.com/wizardamxn"><img src="https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-    <a href="https://www.linkedin.com/in/amanahmad1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="mailto:amank225566@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="http://amanahmad.xyz"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
 </div>
 
-<br />
+---
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="65%" valign="top" style="border: none;">
-      <h3>⚡ Engineering Philosophy</h3>
-      <p>I engineer robust, high-performance web applications, currently driving development as a Full Stack Developer Intern at <b>KodeCompiler</b>. My focus lies in architecting complex systems—from implementing 100% server-side search architectures to designing secure, <code>sessionStorage</code>-based authentication flows.</p>
-      <p>Beyond standard MERN stacks, I actively explore real-time communication networks via WebSockets, scalable deployments on AWS EC2, and the integration of generative AI using the Vercel AI SDK.</p>
-      <p>
-        <strong>🔭 Currently Architecting:</strong> Enterprise CRM solutions & AI-driven platforms.<br>
-        <strong>🌱 Exploring:</strong> React Native mobile ecosystems & advanced Cloud deployments.<br>
-        <strong>🎮 AFK:</strong> Hitting Push-Pull-Legs at the gym, grinding Valorant, or caring for my dogs.
-      </p>
-    </td>
-    <td width="35%" align="center" valign="center" style="border: none;">
-      <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="100px" style="margin-bottom: 15px;"><br/>
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="220px" />
-    </td>
-  </tr>
+### Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+**[ProjectTeams](https://projectteams.amanahmad.xyz)** &nbsp;·&nbsp; [`repo ↗`](https://github.com/wizardamxn/projectteams)
+
+Real-time team collaboration with chat, live presence, and a RAG document Q&A engine — teams upload PDFs and ask questions answered from their own corpus with cited sources.
+
+`Socket.io` `MongoDB Atlas Vector Search` `BullMQ` `Redis` `Vercel AI SDK` `AWS EC2` `Nginx`
+
+</td>
+<td width="50%" valign="top">
+
+**[AVMG](https://avmg.amanahmad.xyz)** &nbsp;·&nbsp; [`frontend ↗`](https://github.com/wizardamxn/avmg-f) [`backend ↗`](https://github.com/wizardamxn/avmg-b)
+
+All-in-one media converter — pulls audio/video from any source, converts via FFmpeg, and generates AI notes from YouTube transcripts. Redis-queued, Supabase-persisted.
+
+`FFmpeg` `Redis` `Supabase` `PostgreSQL` `Next.js` `AWS EC2`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[KropiGo](https://kropigo.in)**
+
+Agri-marketplace connecting farmers directly with buyers — real-time listings, role-based flows for kisan/buyers/admins, and marketplace moderation. Freelance build, live in production.
+
+`Socket.io` `RTK Query` `Next.js` `MongoDB` `Cloudinary`
+
+</td>
+<td width="50%" valign="top">
+
+**[WatchThis](https://watchthis.amanahmad.xyz)** &nbsp;·&nbsp; [`repo ↗`](https://github.com/wizardamxn/watchthis)
+
+AI-driven movie recommendation platform with personalized suggestions, persistent watchlists, and rich title metadata. Built on TMDB API and Firebase.
+
+`React` `Firebase` `TMDB API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**SolarVistar** &nbsp;·&nbsp; `private`
+
+Freelance CRM for a solar company in Khargone, MP — centralized lead and customer management, delivered end-to-end from requirements to deployment.
+
+`RTK Query` `PostgreSQL` `Prisma` `MongoDB` `Cloudinary`
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;
+
+</td>
+</tr>
 </table>
 
-<br />
+---
 
-<h3 align="center">🛠️ Technical Arsenal</h3>
 <div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e&rank_icon=github" height="150" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" height="150" />
 
 <br />
 
-<h3 align="center">🚀 Featured Architectures</h3>
-<div align="center">
+<img src="https://github.com/wizardamxn/wizardamxn/raw/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
 
-| System | Description | Primary Stack |
-| :--- | :--- | :--- |
-| **Vandal** | AI-driven portfolio builder leveraging generative models. | `Next.js` `Vercel AI SDK` `Gemini` |
-| **[Project Teams](https://github.com/wizardamxn/projectteams)** | Collaborative platform utilizing real-time data sync. | `MERN` `Socket.io` |
-| **AVMG** | Media processing and conversion application architecture. | `Node.js` `AWS EC2` |
-| **[Watch This](https://github.com/wizardamxn/watchthis)** | Full-stack media tracking and recommendation engine. | `MERN` `Firebase` |
-
-</div>
-
-<br />
-
-<div align="center">
-  <h3>📈 Activity & Contributions</h3>
-  <img src="https://github.com/wizardamxn/wizardamxn/raw/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </div>
