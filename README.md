@@ -170,13 +170,13 @@ Full CRM for a solar company in Khargone, MP — centralized lead and customer o
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=wizardamxn&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="150" />
+<img src="https://streak-stats.demolab.com?user=wizardamxn&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="150" />
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&rank_icon=github&include_all_commits=true" height="155" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=wizardamxn&theme=github_dark" height="155" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=6" height="155" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wizardamxn&theme=github_dark" height="155" />
 
 <br /><br />
 
