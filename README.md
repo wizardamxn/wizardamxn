@@ -1,124 +1,187 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Ahmad&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20System%20Architect%20%C2%B7%20Real-time%20Systems&descAlignY=58&descSize=16&descColor=8b949e" width="100%" />
+
 <div align="center">
 
-```
- █████╗ ███╗   ███╗ █████╗ ███╗   ██╗
-██╔══██╗████╗ ████║██╔══██╗████╗  ██║
-███████║██╔████╔██║███████║██╔██╗ ██║
-██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║
-██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║
-╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
+<a href="http://amanahmad.xyz"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/amanahmad1"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="mailto:amank225566@gmail.com"><img src="https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+<a href="https://github.com/wizardamxn"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-**Full-Stack Engineer · System Architecture · Real-time Systems**
+<br /><br />
 
-[![Portfolio](https://img.shields.io/badge/amanahmad.xyz-000?style=flat-square&logo=vercel&logoColor=white)](http://amanahmad.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanahmad1)
-[![Email](https://img.shields.io/badge/amank225566@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amank225566@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+systems+that+scale+%F0%9F%9A%80;Real-time+%2B+AI+%2B+Cloud+%3D+my+stack;Currently+%40+KodeCompiler;Always+shipping+something+new" alt="typing" />
 
 </div>
-
----
-
-### About
-
-I build high-performance web applications with a focus on architecture that holds under pressure. Currently working as a **Full Stack Developer Intern at KodeCompiler**, where I architect systems ranging from server-side search pipelines to secure auth flows and real-time infrastructure.
-
-My stack leans MERN but extends into WebSockets, Redis queues, vector search, and AWS deployments. I also integrate generative AI where it actually adds value — not as a gimmick.
-
----
-
-### Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-</div>
-
----
-
-### Projects
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**[ProjectTeams](https://projectteams.amanahmad.xyz)** &nbsp;·&nbsp; [`repo ↗`](https://github.com/wizardamxn/projectteams)
-
-Real-time team collaboration with chat, live presence, and a RAG document Q&A engine — teams upload PDFs and ask questions answered from their own corpus with cited sources.
-
-`Socket.io` `MongoDB Atlas Vector Search` `BullMQ` `Redis` `Vercel AI SDK` `AWS EC2` `Nginx`
-
-</td>
-<td width="50%" valign="top">
-
-**[AVMG](https://avmg.amanahmad.xyz)** &nbsp;·&nbsp; [`frontend ↗`](https://github.com/wizardamxn/avmg-f) [`backend ↗`](https://github.com/wizardamxn/avmg-b)
-
-All-in-one media converter — pulls audio/video from any source, converts via FFmpeg, and generates AI notes from YouTube transcripts. Redis-queued, Supabase-persisted.
-
-`FFmpeg` `Redis` `Supabase` `PostgreSQL` `Next.js` `AWS EC2`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[KropiGo](https://kropigo.in)**
-
-Agri-marketplace connecting farmers directly with buyers — real-time listings, role-based flows for kisan/buyers/admins, and marketplace moderation. Freelance build, live in production.
-
-`Socket.io` `RTK Query` `Next.js` `MongoDB` `Cloudinary`
-
-</td>
-<td width="50%" valign="top">
-
-**[WatchThis](https://watchthis.amanahmad.xyz)** &nbsp;·&nbsp; [`repo ↗`](https://github.com/wizardamxn/watchthis)
-
-AI-driven movie recommendation platform with personalized suggestions, persistent watchlists, and rich title metadata. Built on TMDB API and Firebase.
-
-`React` `Firebase` `TMDB API`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**SolarVistar** &nbsp;·&nbsp; `private`
-
-Freelance CRM for a solar company in Khargone, MP — centralized lead and customer management, delivered end-to-end from requirements to deployment.
-
-`RTK Query` `PostgreSQL` `Prisma` `MongoDB` `Cloudinary`
-
-</td>
-<td width="50%" valign="top">
-
-&nbsp;
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=8b949e&rank_icon=github" height="150" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&langs_count=6" height="150" />
 
 <br />
 
-<img src="https://github.com/wizardamxn/wizardamxn/raw/output/github-contribution-grid-snake-dark.svg" alt="contribution graph" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
+
+<br />
+
+```ts
+const aman = {
+  role:     "Full Stack Developer Intern @ KodeCompiler",
+  building: ["Enterprise CRM", "AI-driven platforms", "Real-time infra"],
+  stack:    ["MERN", "Next.js", "Socket.io", "Redis", "AWS", "Vector DBs"],
+  currently: "Exploring React Native + advanced Cloud deployments",
+  afk:      "gym → valorant → dogs",
+};
+```
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
+
+<br />
+
+<div align="center">
+
+### `// tech stack`
+
+<br />
+
+<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,express,mongodb,postgres,redis,aws,docker,tailwind,prisma,supabase,firebase,git&perline=8&theme=dark" />
 
 </div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+
+<br />
+
+<div align="center">
+
+### `// projects`
+
+</div>
+
+<br />
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h4>
+  <img src="https://img.shields.io/badge/01-58A6FF?style=flat-square&labelColor=0d1117" />
+  &nbsp;<a href="https://projectteams.amanahmad.xyz">ProjectTeams</a>
+  &nbsp;<a href="https://github.com/wizardamxn/projectteams"><img src="https://img.shields.io/badge/↗-21262d?style=flat-square" /></a>
+</h4>
+
+Real-time collaboration platform with chat, live presence, and a **RAG document Q&A engine** — teams upload PDFs and ask questions answered strictly from their own corpus, with cited sources.
+
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Vector_Search-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/BullMQ-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel_AI-000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS_EC2-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+<h4>
+  <img src="https://img.shields.io/badge/02-58A6FF?style=flat-square&labelColor=0d1117" />
+  &nbsp;<a href="https://avmg.amanahmad.xyz">AVMG</a>
+  &nbsp;<a href="https://github.com/wizardamxn/avmg-f"><img src="https://img.shields.io/badge/frontend-21262d?style=flat-square" /></a>
+  &nbsp;<a href="https://github.com/wizardamxn/avmg-b"><img src="https://img.shields.io/badge/backend-21262d?style=flat-square" /></a>
+</h4>
+
+All-in-one media converter — pulls audio/video from any source, converts via **FFmpeg**, and generates AI notes from YouTube transcripts. Redis-queued, Supabase-persisted, AWS-deployed.
+
+<img src="https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h4>
+  <img src="https://img.shields.io/badge/03-58A6FF?style=flat-square&labelColor=0d1117" />
+  &nbsp;<a href="https://kropigo.in">KropiGo</a>
+  &nbsp;<img src="https://img.shields.io/badge/freelance-F59E0B?style=flat-square" />
+</h4>
+
+Agri-marketplace connecting farmers directly with buyers — **real-time listings**, role-based flows for kisan/buyers/admins, and marketplace moderation. Live in production.
+
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+
+</td>
+<td width="50%" valign="top">
+
+<h4>
+  <img src="https://img.shields.io/badge/04-58A6FF?style=flat-square&labelColor=0d1117" />
+  &nbsp;<a href="https://watchthis.amanahmad.xyz">WatchThis</a>
+  &nbsp;<a href="https://github.com/wizardamxn/watchthis"><img src="https://img.shields.io/badge/↗-21262d?style=flat-square" /></a>
+</h4>
+
+AI-driven movie recommendation platform with personalized suggestions, persistent watchlists, and rich title metadata powered by the TMDB API.
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+<img src="https://img.shields.io/badge/TMDB-01B4E4?style=flat-square&logo=themoviedatabase&logoColor=white" />
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br /></td></tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<h4>
+  <img src="https://img.shields.io/badge/05-58A6FF?style=flat-square&labelColor=0d1117" />
+  &nbsp;SolarVistar
+  &nbsp;<img src="https://img.shields.io/badge/freelance-F59E0B?style=flat-square" />
+  &nbsp;<img src="https://img.shields.io/badge/private-21262d?style=flat-square&logo=lock&logoColor=white" />
+</h4>
+
+Full CRM for a solar company in Khargone, MP — centralized lead and customer ops, delivered end-to-end from requirements to production.
+
+<img src="https://img.shields.io/badge/RTK_Query-764ABC?style=flat-square&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
+
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%" />
+
+<br />
+
+<div align="center">
+
+### `// stats`
+
+<br />
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=wizardamxn&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="150" />
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=wizardamxn&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=8b949e&rank_icon=github&include_all_commits=true" height="155" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wizardamxn&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=8b949e&langs_count=6" height="155" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wizardamxn&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true" width="95%" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
