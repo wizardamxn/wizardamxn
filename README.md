@@ -21,11 +21,11 @@
 
 ```ts
 const aman = {
-  role:     "Full Stack Developer Intern @ KodeCompiler",
+  role:     "Full Stack Engineer",
   building: ["Enterprise CRM", "AI-driven platforms", "Real-time infra"],
   stack:    ["MERN", "Next.js", "Socket.io", "Redis", "AWS", "Vector DBs"],
-  currently: "Exploring React Native + advanced Cloud deployments",
-  afk:      "gym → valorant → dogs",
+  currently: "Devops + advanced Cloud deployments",
+  afk:      "gym → valorant → bing-chilling",
 };
 ```
 
