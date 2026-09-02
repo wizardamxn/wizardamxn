@@ -2,7 +2,7 @@
 
 # Aman Ahmad
 
-Full-Stack Engineer · currently @ [KodeCompiler](https://kodecompiler.com)
+Full-Stack Engineer · currently @ [10ex.ai](https://10ex.ai)
 
 [amanahmad.xyz](http://amanahmad.xyz) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/amanahmad1) &nbsp;·&nbsp; [amank225566@gmail.com](mailto:amank225566@gmail.com)
 
