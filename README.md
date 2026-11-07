@@ -1,52 +1,105 @@
+```text
+ █████╗ ███╗   ███╗ █████╗ ███╗   ██╗     █████╗ ██╗  ██╗███╗   ███╗ █████╗ ██████╗
+██╔══██╗████╗ ████║██╔══██╗████╗  ██║    ██╔══██╗██║  ██║████╗ ████║██╔══██╗██╔══██╗
+███████║██╔████╔██║███████║██╔██╗ ██║    ███████║███████║██╔████╔██║███████║██║  ██║
+██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║    ██╔══██║██╔══██║██║╚██╔╝██║██╔══██║██║  ██║
+██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║    ██║  ██║██║  ██║██║ ╚═╝ ██║██║  ██║██████╔╝
+╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
+```
+
 <div align="center">
 
-# Aman Ahmad
-
-Full-Stack Engineer · currently @ [10ex.ai](https://10ex.ai)
+**full-stack engineer** · building at [10ex.ai](https://10ex.ai) · Hyderabad, India
 
 [amanahmad.xyz](http://amanahmad.xyz) &nbsp;·&nbsp; [linkedin](https://www.linkedin.com/in/amanahmad1) &nbsp;·&nbsp; [amank225566@gmail.com](mailto:amank225566@gmail.com)
 
 </div>
 
+```console
+$ whoami
+aman. I build backend-heavy web apps.
+
+$ cat focus.txt
+real-time infra · AI integration · making things work in production, not just locally
+
+$ ls ~/shipped
+projectteams/   avmg/   kropigo/   watchthis/   solarvistar/
+
+$ ./now --building
+warden: a NEET lecture goes in, notes + flashcards + an OMR quiz come out
+
+$ uptime
+not looking. always open to interesting problems.
+```
+
 ---
 
-I build backend-heavy web apps. My work lives somewhere between real-time infra, AI integration, and making things actually work in production — not just locally.
+## now building
 
-Currently working on enterprise CRM systems and AI-driven platforms. Previously shipped a RAG document Q&A engine, a media converter pipeline on AWS, and a live agri-marketplace that's handling real farmers and real orders.
+```text
+                    _
+__ __ ____ _ _ _ __| |___ _ _
+\ V  V / _` | '_/ _` / -_) ' \
+ \_/\_/\__,_|_| \__,_\___|_||_|
+```
 
-Not currently looking, but always open to interesting problems.
+**[Warden](https://github.com/wizardamxn/warden)** turns a YouTube lecture into study material, so a NEET student learns from the video instead of only watching it.
 
-When I'm not shipping: Push-Pull-Legs, Valorant, bing-chilling.
+```text
+┌─────────────────────────────────┬────────────────────────────────────────┐
+│                                 │ 26:31  Levels of organisation          │
+│              ▶ play             │        ▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀         │
+│                                 │        · cell → tissue → organ         │
+│ ━━━━━━━━━━━━━━━━━○───── 26:40   │                                        │
+│                                 │ 44:05  History: Robert Hooke           │
+│ Cell: The Unit of Life          │        · coined "cell" in 1665         │
+├─────────────────────────────────┴────────────────────────────────────────┤
+│ notes · flashcards · answer sheet          (1) (2) (█) (4)    +4 right   │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+Captions → three separate Gemini calls (notes, flashcards, quiz), every answer checked in Go and saved step by step, so a crash never pays for the same work twice.
+
+`Go` `Next.js` `Postgres` `Gemini` `YouTube IFrame API`
 
 ---
 
-<div align="center">
+## shipped
 
-<img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,express,mongodb,postgres,redis,aws,docker,tailwind,prisma,supabase,firebase,git&perline=8&theme=dark" />
+**[ProjectTeams](https://projectteams.amanahmad.xyz)** · [`repo`](https://github.com/wizardamxn/projectteams)
 
-</div>
+Real-time team platform with chat, presence, and a RAG Q&A engine. Teams upload their own PDFs; the system chunks, embeds, and retrieves with citations. Sub-100ms message delivery over Socket.io. Nginx reverse proxy on EC2, Cloudflare + Let's Encrypt TLS in front.
 
----
-
-### Projects
-
-**[ProjectTeams](https://projectteams.amanahmad.xyz)** — [`repo`](https://github.com/wizardamxn/projectteams)
-
-Real-time team platform with chat, presence, and a RAG Q&A engine. Teams upload their own PDFs; the system chunks, embeds, and retrieves with citations. Ingestion runs on a BullMQ/Redis worker, retrieval via MongoDB Atlas Vector Search. Sub-100ms message delivery over Socket.io. Nginx reverse proxy on EC2, Cloudflare + Let's Encrypt TLS in front.
+```mermaid
+flowchart LR
+    pdf[Team uploads PDFs] --> queue[BullMQ job on Redis]
+    queue --> embed[Chunk + embed]
+    embed --> vec[(MongoDB Atlas<br/>Vector Search)]
+    ask[Question in chat] --> find[Retrieve chunks]
+    vec --> find
+    find --> answer[Answer with citations]
+    answer -- Socket.io --> room[Everyone in the room]
+```
 
 `Socket.io` `BullMQ` `Redis` `MongoDB Vector Search` `Vercel AI SDK` `AWS EC2`
 
 <br />
 
-**[AVMG](https://avmg.amanahmad.xyz)** — [`frontend`](https://github.com/wizardamxn/avmg-f) &nbsp;[`backend`](https://github.com/wizardamxn/avmg-b)
+**[AVMG](https://avmg.amanahmad.xyz)** · [`frontend`](https://github.com/wizardamxn/avmg-f) &nbsp;[`backend`](https://github.com/wizardamxn/avmg-b)
 
 Download and convert audio/video from virtually anything. FFmpeg pipeline, Redis-queued for repeat requests, Multer for uploads, Supabase for storage. Also generates AI notes from YouTube transcripts. Backend lives on AWS EC2.
+
+```text
+ any link ──▶ [ fetch ] ──▶ [ ffmpeg ] ──▶ [ supabase ] ──▶ your file
+                  │
+                  └──▶ seen it before? redis says yes, skip the work
+```
 
 `FFmpeg` `Redis` `Supabase` `PostgreSQL` `Next.js` `AWS EC2`
 
 <br />
 
-**[KropiGo](https://kropigo.in)** — *freelance, live in production*
+**[KropiGo](https://kropigo.in)** · *freelance, live in production*
 
 Agri-marketplace connecting farmers (kisan) directly with buyers. Real-time listing and order updates, role-based flows for kisan/buyers/admins, marketplace moderation.
 
@@ -54,7 +107,7 @@ Agri-marketplace connecting farmers (kisan) directly with buyers. Real-time list
 
 <br />
 
-**[WatchThis](https://watchthis.amanahmad.xyz)** — [`repo`](https://github.com/wizardamxn/watchthis)
+**[WatchThis](https://watchthis.amanahmad.xyz)** · [`repo`](https://github.com/wizardamxn/watchthis)
 
 Movie recommendation app with AI-personalized suggestions, persistent watchlists, and full title metadata from TMDB.
 
@@ -62,15 +115,63 @@ Movie recommendation app with AI-personalized suggestions, persistent watchlists
 
 <br />
 
-**SolarVistar** — *freelance · private*
+**SolarVistar** · *freelance, private*
 
-CRM for a solar company in Khargone, MP. Lead and customer management, end-to-end — requirements to deployment.
+CRM for a solar company in Khargone, MP. Lead and customer management, end to end, from requirements to deployment.
 
 `RTK Query` `PostgreSQL` `Prisma` `MongoDB` `Cloudinary`
 
 ---
 
+## the toolbox
+
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,go,nextjs,react,nodejs,express,mongodb,postgres,redis,aws,docker,tailwind,prisma,supabase,firebase,git&perline=8&theme=dark" />
+
+</div>
+
+---
+
+## off the clock
+
+```text
+  MON  ████████████  push
+  TUE  ████████████  pull
+  WED  ████████████  legs
+  THU  ████████████  push
+  FRI  ████████████  pull
+  SAT  ████████████  legs
+  SUN  ░░░░░░░░░░░░  valorant · bing-chilling
+```
+
+<details>
+<summary>my crosshair, if you ask nicely</summary>
+
+```text
+              │
+              │
+              │
+      ─────── ┼ ───────
+              │
+              │
+              │
+```
+
+</details>
+
+---
+
+## activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wizardamxn/wizardamxn/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="a snake eating my contribution graph" src="https://raw.githubusercontent.com/wizardamxn/wizardamxn/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<br /><br />
 
 <img src="https://streak-stats.demolab.com?user=wizardamxn&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="150" />
 

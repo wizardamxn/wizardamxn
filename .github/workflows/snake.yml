@@ -5,19 +5,21 @@ on:
     - cron: "0 */6 * * *"
   workflow_dispatch:
 
+# Pushing the images to the output branch needs write access.
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@v3
         with:
-          # This is your github username
           github_user_name: wizardamxn
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
