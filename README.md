@@ -123,7 +123,7 @@ CRM for a solar company in Khargone, MP. Lead and customer management, end-to-en
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=wizardamxn&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&area_color=58A6FF&hide_border=true" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wizardamxn&theme=github_dark" width="95%" alt="contributions over time" />
 
 <br /><br />
 
